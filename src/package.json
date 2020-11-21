@@ -1,0 +1,19 @@
+{
+  "name": "final-sistemas-operativos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmarcelodn/final-sistemas-operativos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmarcelodn/final-sistemas-operativos/issues"
+  },
+  "homepage": "https://github.com/hmarcelodn/final-sistemas-operativos#readme"
+}
