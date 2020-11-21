@@ -1,5 +1,5 @@
-import { Planificador } from './Planificador';
 import { DB } from './DB';
+import { Planificador } from './Planificador';
 import { Escritor } from './Escritor';
 import { Lector } from './Lector';
 
